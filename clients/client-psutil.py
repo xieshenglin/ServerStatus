@@ -96,7 +96,6 @@ def liuliang():
 			break
 	return NET_IN, NET_OUT
 
-
 def get_network(ip_version):
 	if(ip_version == 4):
 		HOST = "ipv4.google.com"
